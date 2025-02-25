@@ -1,5 +1,9 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=Never+has+been+%2C+and+it+never+will+be.)](https://git.io/typing-svg)
 # Hi, I’m @Benjamin 👋
+
+</div>
 
 This is my personal website https://benlifec.com, in which i record some thinking, reflection and learning.
 
