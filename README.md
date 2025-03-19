@@ -9,8 +9,8 @@ This is my personal website https://benlifec.com, in which i record some thinkin
 
 - ✈️ I'm a software engineer running on all cylinders.
 - 💼 Develop using `Golang` and `Python` at work.
-- 📧 Email: `echo Y3lhbjA5MDhAMTYzLmNvbQ== | base64 -d | grep %  -v`
-- 💬 Wechat: `echo Q3lhbkJlbmphbWlu== | base64 -d | grep %  -v`
+- 📧 Email: `echo Y3lhbjA5MDhAMTYzLmNvbQ | base64 -d | grep %  -v`
+- 💬 Wechat: `echo Q3lhbkJlbmphbWlu | base64 -d | grep %  -v`
 
   
 ###  🎈 🏃
